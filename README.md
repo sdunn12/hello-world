@@ -1,2 +1,6 @@
 # hello-world
-Initialize this respository with a README
+
+
+Hi!
+
+Sandra here.  Like to be called Sandy.  It's an interesting day!
